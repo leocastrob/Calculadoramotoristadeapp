@@ -39,7 +39,7 @@ Como Rodar o Projeto
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/calculadora-motorista.git
+git clone [https://github.com/seu-usuario/calculadora-motorista.git](https://github.com/leocastrob/Calculadoramotoristadeapp.git)
 
 Acesse a pasta do projeto:
 
